@@ -1,6 +1,13 @@
 
+#!
+
+echo"pavan reddy maram"
+
+echo " we are practing for 10 times on each concept and practice on paper and in laptop"
 
 
 
 
-thi s is  for practice  pavan reddy maram
+
+echo "this is  for practice  pavan reddy maram "
+
